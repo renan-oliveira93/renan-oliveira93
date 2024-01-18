@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-I´m Renan de Oliveira, Front-End Developer.
+I´m Renan de Oliveira, Full Stack Developer.
 
-I´m currently learning Javascript, React, Next.JS, and all about front-end developement. 
